@@ -1,0 +1,15 @@
+Lyra
+Copyright 2026 Lyra contributors
+
+This product includes software developed as an independent music player.
+It is not affiliated with any other music application.
+
+Fonts
+  Outfit, Copyright 2021 The Outfit Project Authors, SIL Open Font License 1.1
+  Fraunces, Copyright 2018 The Fraunces Project Authors, SIL Open Font License 1.1
+  License texts: third_party/fonts/
+
+Streaming catalogs are accessed at playback time from their own public APIs:
+  Audius (https://audius.co)
+  Internet Archive items that declare a Creative Commons license
+Lyrics text is requested from LRCLIB (https://lrclib.net) and is not bundled.
